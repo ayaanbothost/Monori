@@ -8,7 +8,7 @@ Thank you for your interest in contributing to TitanBot! This guide covers local
 - New commands or enhancements to existing features
 - Documentation updates
 
-Before starting large features, open an issue or discuss in the [support server](https://discord.gg/8kJBYhTGW9) so we can align on scope and avoid duplicate work.
+Before starting large features, open an issue or discuss in the [support server](https://discord.gg/hfJfrrb6YS) so we can align on scope and avoid duplicate work.
 
 ## Getting Started
 
